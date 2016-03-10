@@ -1,0 +1,227 @@
+{
+	"navigation": {
+		"home": {
+			"text": "Home",
+			"icon": "btn_home.png",
+			"icon_active": "btn_home_active.png"
+		},
+		"awards": {
+			"text": "Awards",
+			"icon": "btn_awards.png",
+			"icon_active": "btn_awards_active.png"
+		},
+		"progress": {
+			"text": "Progress",
+			"icon": "btn_progress.png",
+			"icon_active": "btn_progress_active.png"
+		},
+		"quitHelps": {
+			"text": "Quit Help",
+			"icon": "btn_quithelp.png",
+			"icon_active": "btn_quithelp_active.png"
+		},
+		"more": {
+			"text": "More",
+			"icon": "btn_more.png",
+			"icon_active": "btn_more_active.png"
+		}
+	},
+	"awards": [{
+		"title": "Days Smoke Free",
+		"data": [{
+			"id": "0.0",
+			"text": "Committed",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_committed_achieved.png",
+			"title": "I am committed to quit!",
+			"description": "This award is achieved when you start the quitting process."
+		}, {
+			"id": "0.1",
+			"text": "Quit Date",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_quitdate_achieved.png",
+			"title": "I am quitting!",
+			"description": "This award is obtained when you reach your particular quit date and begin the quitting process."
+		}, {
+			"id": "0.2",
+			"text": "Day 1",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_day1_achieved.png",
+			"title": "Smoke-Free Day",
+			"description": "This award is obtained when you have been smoke-free for a complete day."
+		}, {
+			"id": "0.3",
+			"text": "1 Week",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_week1_achieved.png",
+			"title": "Smoke-Free Week",
+			"description": "This award is obtained when you have been smoke-free for an enitre week."
+		}, {
+			"id": "0.4",
+			"text": "3 Weeks",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_week3_achieved.png",
+			"title": "21 Day Challenge",
+			"description": "This award is obtained when you reach the 21 day mark of your quitting process and break the habit."
+		}, {
+			"id": "0.5",
+			"text": "1 Month",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_month1_achieved.png",
+			"title": "Smoke-Free Month",
+			"description": "This award is obtained when you have been smoke-free for an enitre month."
+		}, {
+			"id": "0.6",
+			"text": "100 Cigaretes not Smoked",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_100cig_achieved.png",
+			"title": "100 Cigarettes not smoked",
+			"description": "This award is obtained when you reach 100 cigarettes not smoked."
+		}, {
+			"id": "0.7",
+			"text": "250 Cigarettes not Smoked",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_250cig_achieved.png",
+			"title": "250 Cigarettes not smoked",
+			"description": "This award is obtained when you reach 250 cigarettes not smoked."
+		}, {
+			"id": "0.8",
+			"text": "500 Cigarettes no Smoked",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_500cig_achieved.png",
+			"title": "500 Cigarettes not smoked",
+			"description": "This award is obtained when you reach 500 cigarettes not smoked."
+		}, {
+			"id": "0.9",
+			"text": "Smoking Tracker",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_committed_achieved.png",
+			"title": "Keep track of smoking",
+			"description": "This award is obtained when you keep track of your smoking habit for 3 days in a row."
+		}, {
+			"id": "0.10",
+			"text": "Craving Tracker",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_committed_achieved.png",
+			"title": "Keep track of cravings",
+			"description": "This award is obtained when you keep track of your cravings for 3 days in a row."
+		}]
+	}, {
+		"title": "Money Saved",
+		"data": [{
+			"id": "1.0",
+			"text": "$100 Saved!",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_100_achieved.png",
+			"title": "$100 Saved!",
+			"description": "This award is obtained when you reach $100 not spent on cigarettes."
+		}, {
+			"id": "1.1",
+			"text": "$500 Saved!",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_500_achieved.png",
+			"title": "$500 Saved!",
+			"description": "This award is obtained when you reach $500 not spent on cigarettes."
+		}, {
+			"id": "1.2",
+			"text": "$1000 Saved",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_1000_achieved.png",
+			"title": "$1000 Saved!",
+			"description": "This award is obtained when you reach $1000 not spent on cigarettes."
+		}]
+	}, {
+		"title": "Health Achieved",
+		"data": [{
+			"id": "2.0",
+			"text": "Breathe Easier",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_breathe_achived.png",
+			"title": "Lung capacity has increased",
+			"description": "72 hours after quitting your lung capacity has increased and your bronchial tubes have relaxed, making breathing easier."
+		}, {
+			"id": "2.1",
+			"text": "Breathe Easier II",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_breathe2_achived.png",
+			"title": "Lung functioning has increased 30%",
+			"description": "Three months after quitting your circulation has improved and your lung functioning has increased by up to 30%."
+		}, {
+			"id": "2.2",
+			"text": "O2",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_o2_achieved.png",
+			"title": "Carbon monoxide and oxygen levels return to normal",
+			"description": "Eight hours after quitting, carbon monoxide levels have dropped in your body and oxygen level have returned to normal."
+		}, {
+			"id": "2.3",
+			"text": "Better Health",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_health_achieved.png",
+			"title": "Coughing and shortness of breath improve",
+			"description": "Six months after quitting your coughin, sinus congestion, tiredness and shortness of breath have improved."
+		}, {
+			"id": "2.4",
+			"text": "Nicotine Free",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "",
+			"title": "Nicotine levels reduced to zero",
+			"description": "Two weeks after quitting all nicotine has left your body."
+		}, {
+			"id": "2.5",
+			"text": "Better Taste and Smell",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_tastesmell_achived.png",
+			"title": "Sense of taste and smell have improved.",
+			"description": "48 hours after quitting your sense of taste and smell have improved."
+		}, {
+			"id": "2.6",
+			"text": "Happy Heart",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_heart_achieved.png",
+			"title": "Change of having a heart attack has started to go down",
+			"description": "48 hours after quitting your chances of having a hear attack have started to go down."
+		}, {
+			"id": "2.7",
+			"text": "Happy Heart II",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_heart2_achieved.png",
+			"title": "Risk of heart attack cut in half",
+			"description": "One year after quitting your risk of a smoking related heart attack has been cut in half."
+		}]
+	}, {
+		"title": "Personal Awards",
+		"data": [{
+			"id": "3.0",
+			"text": "Night Out",
+			"icon": "award_locked_white.png",
+			"icon_achieved": "award_nightout_achieved.png",
+			"title": "Night Out Challenge",
+			"description": "This award is obtained when you go for a night out and record zero cigarettes smoked."
+		}]
+	}],
+    "quithelps": [{
+        "id": "0",
+        "title": "Smokers' Helpline",
+        "phone": "1-877-513-5333",
+        "website": "http://www.smokershelpline.ca/",
+        "logo": "sho-logo.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque in augue velit. Vestibulum imperdiet pulvinar sem, eget viverra turpis interdum ac. Nulla ut libero vehicula lorem vehicula egestas sed sit amet magna. Vivamus id diam ut lacus efficitur vehicula quis vitae magna. Duis non nisi fringilla nunc pharetra lobortis et a lorem. Quisque vehicula, lorem ut pretium commodo, felis diam dignissim odio, porta porttitor quam dui vitae dolor. Mauris a felis elit."
+    } , {
+        "id": "1",
+        "title": "Leave the Pack Behind",
+        "phone": "",
+        "website": "https://www.leavethepackbehind.org/",
+        "logo": "ltpb_logo_big.png",
+        "description": "Nam mattis interdum consequat. Nam a ex eget enim facilisis consequat. Mauris commodo magna id euismod rhoncus. In in quam at felis facilisis tempus. Maecenas mollis rutrum diam eu ultricies. Ut lacinia, erat quis aliquet vestibulum, ex nisi euismod sapien, non tincidunt tortor urna a ex. In ornare consequat magna nec varius. Vivamus commodo, elit faucibus maximus convallis, lacus nisl pulvinar elit, vitae pulvinar diam tortor nec mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc rhoncus pharetra blandit."
+    
+    }, {
+        "id": "2",
+        "title": "Canadian Cancer Society",
+        "phone": "",
+        "website": "http://www.cancer.ca/",
+        "logo": "logo_ccs.png",
+        "description": "Cras gravida dolor et augue tempor, vel dapibus libero ornare. Praesent maximus libero ipsum. Curabitur eu ullamcorper ante, eu sollicitudin dui. Etiam aliquam ultricies ligula gravida consequat. Maecenas tincidunt consequat turpis eu finibus. Quisque enim metus, laoreet at hendrerit eu, finibus vitae dui. Duis magna lorem, vulputate eget lorem ac, auctor convallis purus."
+    
+    }]
+}

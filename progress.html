@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Crush the Crave</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+	    <link href="css/mainDesign.css" rel="stylesheet" type="text/css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+		<script src="https://code.highcharts.com/highcharts.js"></script>
+	</head>
+	<body>
+    
+    <div id="screenContainer">
+	    <div id="screenContent" style="margin:0 0 6px 0; padding:2px;">
+            <div id="topNav">
+                <img src="icons/btn_back.png" width="47" height="28" style="float:left;" id="prevArrow">
+                <img src="icons/btn_forward.png" width="47" height="28" style="float:right;" id="nextArrow">
+            </div>
+            <div id="container"></div>
+        </div>
+        <div id="navigation">
+        	<div id="home" onMouseOver="navSwitch(this,'active');" onMouseOut="navSwitch(this,'inactive');" onClick="loadPage(this);"></div>
+            <div id="awards" onMouseOver="navSwitch(this,'active');" onMouseOut="navSwitch(this,'inactive');" onClick="loadPage(this);"></div>
+            <div id="progress" onMouseOver="navSwitch(this,'active');" onMouseOut="navSwitch(this,'inactive');" onClick="loadPage(this);"></div>
+            <div id="quitHelps" onMouseOver="navSwitch(this,'active');" onMouseOut="navSwitch(this,'inactive');" onClick="loadPage(this);"></div>
+            <div id="more" onMouseOver="navSwitch(this,'active');" onMouseOut="navSwitch(this,'inactive');" onClick="loadPage(this);"></div>	
+        </div>
+    </div>
+
+    <script src="js/progress.js"></script>
+    <script src="js/mainScript.js"></script>
+
+	</body>
+</html> 

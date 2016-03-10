@@ -1,0 +1,30 @@
+{
+	"navigation": {
+		"home": {
+			"text": "D'acceil",
+			"icon": "btn_home.png",
+			"icon_active": "btn_home_active.png"
+		},
+		"awards": {
+			"text": "Victoires",
+			"icon": "btn_awards.png",
+			"icon_active": "btn_awards_active.png"
+		},
+		"progress": {
+			"text": "Progès",
+			"icon": "btn_progress.png",
+			"icon_active": "btn_progress_active.png"
+		},
+		"quitHelp": {
+			"text": "Aide",
+			"icon": "btn_quithelp.png",
+			"icon_active": "btn_quithelp_active.png"
+		},
+		"more": {
+			"text": "Plus",
+			"icon": "btn_more.png",
+			"icon_active": "btn_more_active.png"
+		}
+	}
+}
+	
